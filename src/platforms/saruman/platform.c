@@ -1,7 +1,7 @@
 /*
  * This file is part of the Saruman Debug project.
  *
- * Copyright (C) 2020 lambdachip
+ * Copyright (C) 2020 LambdaChip
  * Written by rafael@lambdachip.com
  *
  * This program is free software: you can redistribute it and/or modify

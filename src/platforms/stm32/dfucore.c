@@ -122,7 +122,7 @@ static char serial_no[9];
 static char if_string[] = DFU_IFACE_STRING;
 
 static const char *usb_strings[] = {
-	"Black Sphere Technologies",
+	"LambdaChip",
 	BOARD_IDENT_DFU,
 	serial_no,
 	/* This string is used by ST Microelectronics' DfuSe utility */
@@ -131,7 +131,7 @@ static const char *usb_strings[] = {
 
 static char upd_if_string[] = UPD_IFACE_STRING;
 static const char *usb_strings_upd[] = {
-	"Black Sphere Technologies",
+	"LambdaChip",
 	BOARD_IDENT_UPD,
 	serial_no,
 	/* This string is used by ST Microelectronics' DfuSe utility */
